@@ -2,6 +2,8 @@
 
 O material recebido incluía conversões `book-to-skill` e skills aplicadas aos cinco livros. As rotinas do agente foram consolidadas por função a partir desse material. A conversão fornecida de O Ano de 12 Semanas indica que usou um resumo Bookey como fonte de parte das rotinas. As capas do README identificam edições de catálogo.
 
+A Matriz de Ohtani/Open Window 64 (Método Harada) é uma fonte metodológica adicional, separada dos cinco livros. O modelo canônico tem 1 objetivo, 8 pilares e 64 ações candidatas (81 células físicas no arranjo 9×9); a promoção seletiva ao Tasks e o versionamento são convenções deste projeto. Referências: [Harvard Gazette](https://news.harvard.edu/gazette/story/2026/02/crush-your-goals-the-ohtani-way/), [DIME — entrevista e explicação de Harada](https://dime.jp/genre/567605/), [Harada/TURNING POINT](https://tp-bb.jp/contents/30).
+
 A Matriz de Eisenhower é uma fonte metodológica adicional, separada dos cinco livros. A preferência por foco matinal e atividades leves à noite é uma configuração pessoal operacional, não uma conclusão universal da matriz.
 
 A margem inicial de 20%, a classificação por evidência, a faixa do placar, o modelo de dados e as regras de escrita são decisões do projeto. GTD usa a regra dos dois minutos na triagem. Hábitos Atômicos usa a ideia para reduzir o primeiro passo de um hábito ou ação evitada.
@@ -9,6 +11,7 @@ A margem inicial de 20%, a classificação por evidência, a faixa do placar, o 
 | Skill integrada | Conceitos preservados |
 | --- | --- |
 | [Planejamento hierárquico](../skills/planejamento-hierarquico/SKILL.md) | GTD, planejamento natural e horizontes. O Ano de 12 Semanas, visão, metas, táticas e plano semanal. |
+| [Decomposição Ohtani](../skills/decomposicao-ohtani/SKILL.md) | Método Harada, Open Window 64: objetivo central, oito pilares e 64 ações candidatas; validação, seleção para o ciclo e vinculação aos destinos operacionais são convenções do agente. |
 | [Capacidade real](../skills/capacidade-real/SKILL.md) | GTD, critérios de engajamento. A Meta, gargalo, trabalho em curso e fluxo. O Ano de 12 Semanas, blocos de execução. |
 | [Priorização Eisenhower](../skills/priorizacao-eisenhower/SKILL.md) | Matriz importância × urgência (Q1–Q4) e distribuição por janelas de energia configuradas pelo usuário; regras de viabilidade e autorização herdadas do agente. |
 | [Check-in rápido](../skills/checkin-rapido/SKILL.md) | Hábitos Atômicos, registro simples e ajuste de esforço. Checklist, pausa no momento crítico e comunicação explícita. |
