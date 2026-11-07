@@ -24,6 +24,7 @@ flowchart LR
 | Função | Comando | Resultado |
 | --- | --- | --- |
 | Planejamento hierárquico | `PLANEJAR projeto` | Vincula objetivo, projeto e marco a metas mensais, semanais e ações com critério de conclusão. |
+| Matriz de Ohtani / Open Window 64 | `MATRIZ OHTANI projeto` | Converte um objetivo maior em oito pilares e até 64 ações candidatas; ativa somente tarefas viáveis. |
 | Capacidade real e priorização | `PLANEJAR HOJE` | Encaixa o que cabe nas janelas, considerando compromissos, energia, transições, folga e dependências. |
 | Matriz de Eisenhower e energia | `PLANEJAR HOJE` / `PRÓXIMA AÇÃO` | Classifica importância × urgência, protege foco matinal e deixa tarefas leves para janelas posteriores ou noite autorizada. |
 | Check-in rápido | `CHECK-IN` | Coleta só o progresso, bloqueio ou mudança de disponibilidade que afeta a próxima ação. |
@@ -48,5 +49,9 @@ As skills abaixo consolidam o material fornecido por função. Uma mesma skill a
 ## Método complementar: Matriz de Eisenhower
 
 [**Priorização Eisenhower e distribuição por energia**](skills/priorizacao-eisenhower/SKILL.md) — Separa importância de urgência (Q1 a Q4) e propõe blocos de trabalho conforme prazos, energia e compromissos fixos. Por preferência inicial, protege as primeiras janelas livres de trabalho da manhã para atividades cognitivas importantes. Usa a noite somente se configurada como disponibilidade e prioriza nela tarefas secundárias leves. Integra-se a **Capacidade real** e **Replanejamento adaptativo**, sem substituir suas regras de margem, dependências ou autorização. Veja o [exemplo fictício](examples/priorizacao-dia.md).
+
+## Método complementar: Matriz de Ohtani (Open Window 64)
+
+[**Decomposição Ohtani**](skills/decomposicao-ohtani/SKILL.md) — Para um objetivo, plano ou projeto importante, estrutura a grade de 81 células: objetivo central, oito pilares e 64 ações candidatas. O mapa completo fica vinculado ao projeto no Notion; apenas as ações validadas e escolhidas são promovidas a marcos/metas e tarefas no Google Tasks. A **Priorização Eisenhower** e a **Capacidade real** escolhem quais entram na semana e quando executá-las. A **Revisão periódica** mede os resultados dos pilares, não apenas quantas tarefas foram concluídas. Veja o [exemplo de projeto](examples/ohtani-projeto.md).
 
 A [rastreabilidade das skills](docs/rastreabilidade.md) mostra quais materiais de origem sustentam cada rotina.
