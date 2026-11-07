@@ -11,6 +11,8 @@ Crie uma página privada chamada **Autogestão**, com estas bases. Os nomes de p
 | Marcos | ID, relação com projeto, entrega e aceite, dependências, prazo acordado, previsão, IDs das metas no Tasks |
 | Histórico | Chave e versão, fuso, horário de corte, plano de referência por ocorrência, cobertura e fonte, fatos da execução, proposta, decisão e efeitos por aplicativo |
 
+Para objetivos ou projetos com **Matriz de Ohtani**, mantenha uma tabela ou seção vinculada na própria página do projeto/objetivo: versão da matriz, ID do pilar (P01–P08), indicador e evidência, oito ações candidatas por pilar (A01–A08), tipo, estado (candidata/ativada/bloqueada/descartada), esforço, energia, dependência, aceite, ID da ação ativada no Tasks e data da revisão. Os IDs lógicos têm formato `OW64:<ID do projeto>:P01:A01`. A grade completa é um banco estratégico, não uma lista de 64 tarefas ativas. Preserve a versão anterior quando revisar.
+
 Adicione esforço restante, datas de disponibilidade e responsáveis onde forem úteis para dependências. Use um registro de histórico por data local. Antes da execução, salve as ocorrências planejadas e os minutos estimados nessa data. Anexe fatos posteriores e mantenha o plano original mesmo quando alterar a agenda.
 
 ## Google Tasks
@@ -25,6 +27,9 @@ Marco: M-004
 Concluído quando: proposta revisada e aprovada na versão atual
 Esforço restante: 45 min
 Energia: alta
+Célula Ohtani: OW64:P-002:P01:A01 (se aplicável)
+Impacto: libera o marco M-004
+Prazo firme: nenhum (ou AAAA-MM-DD HH:MM com fuso)
 Depende de: A-000
 Divisível: não
 ```
@@ -34,6 +39,10 @@ Nas metas, registre o critério mensurável e o período. Use a data da tarefa c
 ## Google Agenda
 
 Escolha os calendários que bloqueiam disponibilidade, incluindo os compromissos pessoais relevantes. Crie um calendário privado **Blocos de execução** se quiser separar reservas flexíveis. Use `[A-001] Revisar proposta` e anote ID da tarefa, flexibilidade e chave da ocorrência. Na capacidade, um bloco existente só volta a ser oferta se o usuário tiver delegado sua movimentação e ele entrar explicitamente na proposta. Some o trabalho alocado nele uma única vez.
+
+## Preferências de trabalho e energia
+
+Informe a janela normal de trabalho, as janelas noturnas **opcionais** e os horários em que percebe maior ou menor energia (por exemplo: foco alto de manhã, tarefas administrativas à tarde, atividades leves à noite). Essa preferência não é uma disponibilidade presumida: um horário fora da janela autorizada continua indisponível. O agente calcula a urgência a partir dos prazos reais e consequências, e a importância a partir de objetivos, marcos e impacto; evite manter quadrantes estáticos nas tarefas. Compromissos com hora no Google Agenda permanecem fixos salvo autorização específica.
 
 ## Pacote para uso manual
 
