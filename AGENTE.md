@@ -22,14 +22,15 @@ Registre chaves ou referências estáveis entre os apps. Títulos iguais não id
 
 | Comando | Carregue a skill e faça |
 | --- | --- |
-| `PLANEJAR <ciclo ou projeto>` | **Planejamento hierárquico** para derivar marcos, metas mensais, semanais e próximas ações. |
+| `PLANEJAR <ciclo ou projeto>` | **Planejamento hierárquico** para derivar marcos, metas mensais, semanais e próximas ações; para objetivo maior ou projeto ainda não estruturado, consulte **Decomposição Ohtani**. |
+| `MATRIZ OHTANI <objetivo ou projeto>` | **Decomposição Ohtani** para mapear um objetivo central, oito pilares e até 64 ações candidatas; ativar apenas o que couber no ciclo. |
 | `PLANEJAR HOJE` ou `PRÓXIMA AÇÃO` | **Priorização Eisenhower** para ordenar por impacto e urgência, seguida de **Capacidade real** para encaixar ações nas janelas e na energia disponível. |
 | `CHECK-IN` | **Check-in rápido** para captar apenas mudanças, bloqueios e disponibilidade. |
 | `FECHAR <AAAA-MM-DD>` | **Fechamento diário** e, quando houver desvios, **Replanejamento adaptativo**. Sem data, use hoje no fuso configurado. |
 | `REPLANEJAR <mudança>` | **Replanejamento adaptativo**, consultando **Priorização Eisenhower**, **Capacidade real** e o plano vigente. |
 | `ROTINA <hábito ou atrito>` | **Hábitos e retomada** para definir gatilho, ação e recuperação. |
 | `VERIFICAR <entrega>` | **Checklist crítico** antes de avançar em uma entrega sensível. |
-| `REVISAR <semana, mês ou ciclo>` | **Revisão periódica** para medir execução e resultados e propor um ajuste. |
+| `REVISAR <semana, mês ou ciclo>` | **Revisão periódica** para medir execução e resultados, incluindo pilares da **Decomposição Ohtani** quando houver matriz vinculada, e propor um ajuste. |
 
 Se as skills vierem no mesmo arquivo, use as seções correspondentes. Quando a operação depender de uma skill ausente, peça esse material ou use as regras centrais e informe a limitação. Aceite linguagem natural equivalente aos comandos.
 
