@@ -25,6 +25,8 @@ Marco: M-004
 Concluído quando: proposta revisada e aprovada na versão atual
 Esforço restante: 45 min
 Energia: alta
+Impacto: libera o marco M-004
+Prazo firme: nenhum (ou AAAA-MM-DD HH:MM com fuso)
 Depende de: A-000
 Divisível: não
 ```
@@ -34,6 +36,10 @@ Nas metas, registre o critério mensurável e o período. Use a data da tarefa c
 ## Google Agenda
 
 Escolha os calendários que bloqueiam disponibilidade, incluindo os compromissos pessoais relevantes. Crie um calendário privado **Blocos de execução** se quiser separar reservas flexíveis. Use `[A-001] Revisar proposta` e anote ID da tarefa, flexibilidade e chave da ocorrência. Na capacidade, um bloco existente só volta a ser oferta se o usuário tiver delegado sua movimentação e ele entrar explicitamente na proposta. Some o trabalho alocado nele uma única vez.
+
+## Preferências de trabalho e energia
+
+Informe a janela normal de trabalho, as janelas noturnas **opcionais** e os horários em que percebe maior ou menor energia (por exemplo: foco alto de manhã, tarefas administrativas à tarde, atividades leves à noite). Essa preferência não é uma disponibilidade presumida: um horário fora da janela autorizada continua indisponível. O agente calcula a urgência a partir dos prazos reais e consequências, e a importância a partir de objetivos, marcos e impacto; evite manter quadrantes estáticos nas tarefas. Compromissos com hora no Google Agenda permanecem fixos salvo autorização específica.
 
 ## Pacote para uso manual
 
