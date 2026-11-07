@@ -1,0 +1,5 @@
+{
+  "name": "agente-autogestao",
+  "version": "0.1.0",
+  "description": "Agente de autogestao com skills de planejamento hierarquico, capacidade real, Eisenhower, Ohtani, revisoes e replanejamento."
+}
