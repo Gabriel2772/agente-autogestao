@@ -1,0 +1,14 @@
+{
+  "name": "gabriel2772-tools",
+  "description": "Plugins pessoais de autogestao e produtividade.",
+  "owner": {
+    "name": "Gabriel2772"
+  },
+  "plugins": [
+    {
+      "name": "agente-autogestao",
+      "source": "./",
+      "description": "Planejamento hierarquico, Eisenhower, Ohtani, capacidade real, check-ins e replanejamento adaptativo."
+    }
+  ]
+}
